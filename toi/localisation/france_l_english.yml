@@ -1487,10 +1487,10 @@
  nap_france.381.a:0 "Try to reassure them."
  nap_france.381.b:0 "They will have to deal with that."
 
- #nap_france.382.t:0 "Republican Strikes!"
- #nap_france.382.d:0 ""
- #nap_france.382.a:0 "Send in the Army!"
- #nap_france.382.b:0 "Negotiate with them"
+ nap_france.382.t:0 "Republican Strikes!"
+ nap_france.382.d:0 ""
+ nap_france.382.a:0 "Send in the Army!"
+ nap_france.382.b:0 "Negotiate with them"
 
  #nap_france.383.t:0 "Legitimist Uprising!"
  #nap_france.383.d:0 ""
